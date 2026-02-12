@@ -1,0 +1,7 @@
+{
+  "name": "e-SKPI FEBI UINDK",
+  "description": "Aplikasi e-SKPI (Surat Keterangan Pendamping Ijazah elektronik) FEBI UIN Datokarama Palu merupakan sistem layanan digital yang dikembangkan untuk mendukung penerbitan SKPI secara terintegrasi, transparan, dan akuntabel. \nMelalui aplikasi e-SKPI, FEBI UIN Datokarama Palu berupaya meningkatkan efisiensi layanan akademik, mengurangi penggunaan dokumen fisik, serta menjamin keabsahan dan keterlacakan data lulusan. ",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

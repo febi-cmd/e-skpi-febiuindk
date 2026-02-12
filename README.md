@@ -1,2 +1,20 @@
-# e-skpi-febiuindk
-Aplikasi ini merupakan sistem layanan digital yang dikembangkan untuk mendukung penerbitan SKPI secara terintegrasi, transparan, dan akuntabel.  Melalui aplikasi e-SKPI, FEBI UIN Datokarama Palu berupaya meningkatkan efisiensi layanan akademik, dan  mengurangi penggunaan dokumen fisik, serta menjamin keabsahan dan keterlacakan data lulusan. 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/10ATbohIgBq74Je_8NkUtqLIrwWfT9YyH
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
